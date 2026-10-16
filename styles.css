@@ -356,9 +356,9 @@ button { font-family: inherit; cursor: pointer; }
   font-size: 0.8rem; font-weight: 600; color: var(--gold-strong);
   background: var(--surface); border: 1px solid var(--line); padding: 8px 14px; border-radius: 999px;
 }
-.cert-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; }
-.cert-grid img { width: 100%; border-radius: 10px; border: 1px solid var(--line); background: #fff; }
-@media (max-width: 900px) { .cert-grid { grid-template-columns: 1fr; } }
+.cert-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 16px; align-items: start; }
+.cert-grid img { width: 100%; height: auto; border-radius: 10px; border: 1px solid var(--line); background: #fff; object-fit: contain; display: block; }
+@media (max-width: 900px) { .cert-grid { grid-template-columns: repeat(auto-fill, minmax(120px, 1fr)); } }
 
 /* ============ currencies ============ */
 .currency-grid { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 30px; }
