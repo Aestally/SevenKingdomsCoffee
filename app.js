@@ -165,7 +165,7 @@
       cWhatsapp: "WhatsApp",
       cFactory: "Usine",
       cOffice: "Bureau commercial",
-      footerTag: "Café en vrac et café instantané fournis avec un support export pratique.",
+      footerTag: "Café en vrac et instantané, prêt à l'export depuis le Yunnan.",
       footerExplore: "EXPLORER",
       footerCatalog: "Catalogue produits",
       footerAbout: "Notre sourcing",
