@@ -141,7 +141,7 @@ button { font-family: inherit; cursor: pointer; }
 }
 .hero h1 { font-size: 3.4rem; font-weight: 700; margin-bottom: 20px; color: var(--ink); }
 .hero .eyebrow { font-size: 1.05rem; letter-spacing: .22em; margin-bottom: 22px; }
-.hero-sub { font-size: 1.5rem; color: var(--muted); max-width: 34em; }
+.hero-title { font-size: 3.4rem; font-weight: 700; color: var(--ink); line-height: 1.08; margin-bottom: 20px; }
 .hero-ctas { display: flex; gap: 14px; margin: 28px 0 20px; flex-wrap: wrap; }
 .hero-media { position: relative; }
 .hero-media > img:not(.hero-badge) {
