@@ -171,7 +171,7 @@
       footerAbout: "Notre sourcing",
       footerQuote: "Demander un devis",
       footerContact: "CONTACT",
-      footerWhatsapp: "WhatsApp: +86 400-8169-118",
+      footerWhatsapp: "WhatsApp: +81 80 8082 1820",
       footerAddr: "Yunnan, Chine",
       footerCat: "CATALOGUE",
       footerCatBtn: "Catalogue export anglais",
