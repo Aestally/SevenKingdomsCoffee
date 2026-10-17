@@ -139,6 +139,7 @@ button { font-family: inherit; cursor: pointer; }
   font-size: 0.75rem; letter-spacing: .24em; font-weight: 700; color: var(--gold-strong);
   text-transform: uppercase; margin: 0 0 18px;
 }
+.oem-sub { font-size: 1.5rem; letter-spacing: .12em; margin-bottom: 14px; }
 .hero h1 { font-size: 3.4rem; font-weight: 700; margin-bottom: 20px; color: var(--ink); }
 .hero .eyebrow { font-size: 1.05rem; letter-spacing: .22em; margin-bottom: 22px; }
 .hero-title { font-size: 3.4rem; font-weight: 700; color: var(--ink); line-height: 1.08; margin-bottom: 20px; }
