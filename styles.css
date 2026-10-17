@@ -236,7 +236,7 @@ button { font-family: inherit; cursor: pointer; }
 /* ============ OEM / ODM custom ============ */
 .flavor-chips { display: flex; flex-wrap: wrap; gap: 12px; margin: 18px 0 22px; }
 .flavor-chips span { background: var(--surface-2); border: 1px solid var(--gold); color: var(--gold-strong); border-radius: 999px; padding: 12px 24px; font-size: 1rem; font-weight: 600; }
-.packing-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 14px; margin: 10px 0 22px; }
+.packing-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 14px; margin: 10px 0 22px; }
 .packing-item { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; padding: 16px 12px; text-align: center; }
 .packing-item strong { font-family: var(--font-display); font-size: 1.02rem; display: block; color: var(--ink); }
 .packing-item span { font-size: 0.76rem; color: var(--muted); }
