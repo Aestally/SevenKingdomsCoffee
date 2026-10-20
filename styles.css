@@ -714,7 +714,7 @@ button { font-family: inherit; cursor: pointer; }
 
 /* ============ footer ============ */
 .site-footer { background: #120c09; color: var(--muted); padding: 56px 0 0; }
-.footer-grid { display: flex; flex-direction: column; justify-content: center; align-items: center; gap: 30px; padding-bottom: 200px; text-align: center; }
+.footer-grid { display: flex; flex-direction: column; justify-content: center; align-items: center; gap: 90px; padding-bottom: 200px; text-align: center; }
 .footer-brand { text-align: center; }
 .footer-brand .brand { justify-content: center; }
 .footer-grid .brand-name { color: var(--ink); }
