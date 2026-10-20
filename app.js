@@ -276,31 +276,7 @@
   $$("[data-i18n]").forEach(function (el) { el.dataset.i18nEn = el.innerHTML; });
   langSelect.addEventListener("change", function () { applyLang(langSelect.value); });
 
-  /* ---------- inquiry form ---------- */
-  var form = $("#inquiry-form");
-  var EMAIL = "robinmacadamianuts@gmail.com";
-  if (form) {
-    form.addEventListener("submit", function (e) {
-      e.preventDefault();
-      var name = $("#f-name").value.trim();
-      var email = $("#f-email").value.trim();
-      if (!name || !email) return;
-      var company = $("#f-company").value.trim();
-      var country = $("#f-country").value.trim();
-      var product = $("#f-product").value;
-      var volume = $("#f-volume").value.trim();
-      var msg = $("#f-msg").value.trim();
-      var subject = "Coffee inquiry — " + (company || name);
-      var body = "Name: " + name + "\n" +
-                 "Company: " + company + "\n" +
-                 "Email: " + email + "\n" +
-                 "Country: " + country + "\n" +
-                 "Product: " + product + "\n" +
-                 "Volume: " + volume + "\n\n" +
-                 "Message:\n" + msg;
-      window.location.href = "mailto:" + EMAIL + "?subject=" + encodeURIComponent(subject) + "&body=" + encodeURIComponent(body);
-    });
-  }
+  /* ---------- inquiry form (submits directly via FormSubmit.co) ---------- */
 
   /* ---------- init ---------- */
   window.addEventListener("hashchange", route);
