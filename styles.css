@@ -723,10 +723,10 @@ button { font-family: inherit; cursor: pointer; }
 .footer-col a:hover { color: var(--ink); }
 .footer-col > span { color: var(--muted); }
 .footer-col .btn { align-self: center; }
-.footer-brand p { color: var(--muted); font-size: 0.85rem; margin: 10px 0 0; max-width: 100%; }
-.footer-brand .brand-mark { width: 48px; height: 48px; }
-.footer-brand .brand-name { font-size: 1.15rem; }
-.footer-brand .brand-sub { font-size: 0.7rem; }
+.footer-brand p { color: var(--muted); font-size: 0.95rem; margin: 12px 0 0; max-width: 100%; }
+.footer-brand .brand-mark { width: 56px; height: 56px; }
+.footer-brand .brand-name { font-size: 1.35rem; }
+.footer-brand .brand-sub { font-size: 0.8rem; }
 .footer-bottom { border-top: 1px solid var(--line); padding: 20px 24px; font-size: 0.8rem; color: #6d5f4e; text-align: center; }
 @media (max-width: 900px) { .footer-grid { gap: 26px; } }
 @media (max-width: 560px) { .footer-grid { gap: 22px; } }
