@@ -278,7 +278,7 @@
 
   /* ---------- inquiry form ---------- */
   var form = $("#inquiry-form");
-  var EMAIL = $("[data-edit='email']") ? $("[data-edit='email']").textContent : "sales@taixiancoffee.com";
+  var EMAIL = "robinmacadamianuts@gmail.com";
   if (form) {
     form.addEventListener("submit", function (e) {
       e.preventDefault();
