@@ -714,7 +714,7 @@ button { font-family: inherit; cursor: pointer; }
 
 /* ============ footer ============ */
 .site-footer { background: #120c09; color: var(--muted); padding: 56px 0 0; }
-.footer-grid { display: flex; flex-direction: row; justify-content: center; align-items: flex-start; gap: 60px; padding-bottom: 40px; flex-wrap: wrap; text-align: left; }
+.footer-grid { display: flex; flex-direction: row; justify-content: center; align-items: flex-start; gap: 40px; padding-bottom: 40px; flex-wrap: wrap; text-align: left; }
 .footer-grid .brand-name { color: var(--ink); }
 .footer-grid .brand-sub { color: var(--muted); }
 .footer-grid h4 { font-family: var(--font-body); font-size: 0.78rem; letter-spacing: .18em; color: var(--red); margin-bottom: 16px; }
@@ -723,7 +723,7 @@ button { font-family: inherit; cursor: pointer; }
 .footer-col a:hover { color: var(--ink); }
 .footer-col > span { color: var(--muted); }
 .footer-col .btn { align-self: center; }
-.footer-brand p { color: var(--muted); font-size: 1.35rem; margin: 21px 0 0; max-width: 30em; }
+.footer-brand p { color: var(--muted); font-size: 1.35rem; margin: 21px 0 0; max-width: 22em; }
 .footer-brand .brand-mark { width: 63px; height: 63px; }
 .footer-brand .brand-name { font-size: 1.58rem; }
 .footer-brand .brand-sub { font-size: 0.93rem; }
