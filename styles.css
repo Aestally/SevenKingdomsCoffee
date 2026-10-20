@@ -731,6 +731,10 @@ button { font-family: inherit; cursor: pointer; }
 @media (max-width: 900px) { .footer-grid { gap: 26px; } }
 @media (max-width: 560px) { .footer-grid { gap: 22px; } }
 
+/* RTL: keep phone numbers and emails LTR */
+[dir="rtl"] strong, [dir="rtl"] .contact-list strong, [dir="rtl"] .contact-list span { unicode-bidi: isolate; }
+[dir="rtl"] a[href^="mailto"], [dir="rtl"] a[href^="tel"], [dir="rtl"] a[href^="https://wa.me"] { unicode-bidi: isolate; direction: ltr; }
+
 /* reduced motion */
 @media (prefers-reduced-motion: reduce) {
   html { scroll-behavior: auto; }
