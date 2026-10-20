@@ -177,6 +177,120 @@
       footerCatBtn: "Catalogue export anglais",
       footerWhatsappBtn: "Démarrer une conversation",
       footerCopy: "© 2026 YUNNAN TAIXIAN BIOTECHNOLOGY CO., LTD. Tous droits réservés."
+    },
+    zh: {
+      navHome: "首页",
+      navAbout: "关于我们",
+      navProducts: "产品",
+      navContact: "联系我们",
+      navFactory: "工厂",
+      navNews: "咖啡学院",
+      navCta: "获取报价",
+      brandSub: "云南咖啡 · 全球供应",
+      heroEyebrow: "云南咖啡 · 出口就绪",
+      heroSub: "专业速溶咖啡工厂",
+      heroCtaProducts: "浏览产品",
+      heroCtaQuote: "获取报价",
+      statProductsL: "出口就绪产品",
+      statLinesL: "产品线",
+      statCountriesL: "服务国家",
+      statResponseL: "询盘响应",
+      catTitle: "七大产品线，为出口而设计",
+      catLead: "按生产工艺划分的速溶和液态咖啡，另有挂耳和即饮线——规格、烘焙度和包装按您的客户调整。",
+      catSpray: "喷雾干燥粉",
+      catFreezeDry: "冻干咖啡粉",
+      catAgglo: "复聚造粒",
+      catExtract: "咖啡浓缩液",
+      catBlock: "冻干咖啡块",
+      catDrip: "挂耳咖啡",
+      catRtd: "即饮咖啡",
+      catOem: "OEM / ODM 定制",
+      oemLead: "我们按您的品牌和规格开发、生产和包装您的咖啡。",
+      valueTitle: "稳定的供应伙伴，按您的方式发货",
+      viewProduct: "查看产品",
+      moq: "起订量",
+      moqVal: "请联系我们",
+      pTitle: "咖啡与速溶咖啡，出口就绪",
+      filterAll: "全部产品",
+      cTitle: "谈谈您的咖啡需求",
+      cLead: "请告知目的地、规格和采购量——一个工作日内回复。",
+      fName: "姓名 *",
+      fCompany: "公司",
+      fEmail: "邮箱 *",
+      fCountry: "国家 / 地区",
+      fProduct: "感兴趣的产品",
+      fProductOpt: "请选择",
+      fOther: "其他 / 混合",
+      fVolume: "预估用量",
+      fMsg: "留言",
+      fSubmit: "发送询盘",
+      fWhatsapp: "WhatsApp 咨询",
+      contactHead: "Seven Kingdoms Coffee",
+      cEmail: "邮箱",
+      cWhatsapp: "WhatsApp",
+      cFactory: "工厂",
+      cOffice: "销售办公室",
+      footerTag: "散装与速溶咖啡，云南出口就绪。",
+      footerContact: "联系我们",
+      footerWhatsappBtn: "开始 WhatsApp 对话",
+      footerCopy: "© 2026 云南泰贤生物科技有限公司 版权所有。"
+    },
+    ar: {
+      navHome: "الرئيسية",
+      navAbout: "من نحن",
+      navProducts: "المنتجات",
+      navContact: "اتصل بنا",
+      navFactory: "المصنع",
+      navNews: "أكاديمية القهوة",
+      navCta: "اطلب عرض سعر",
+      brandSub: "قهوة يوننان · توريد عالمي",
+      heroEyebrow: "قهوة يوننان · جاهزة للتصدير",
+      heroSub: "مصنع قهوة فورية احترافي",
+      heroCtaProducts: "استعرض المنتجات",
+      heroCtaQuote: "اطلب عرض سعر",
+      statProductsL: "منتجات جاهزة للتصدير",
+      statLinesL: "خطوط إنتاج",
+      statCountriesL: "دول نخدمها",
+      statResponseL: "رد على الاستفسارات",
+      catTitle: "سبعة خطوط إنتاج مصممة للتصدير",
+      catLead: "قهوة فورية وسائلة حسب طريقة الإنتاج، بالإضافة إلى أكياس التنقيط والجاهزة للشرب — مع تخصيص المواصفات والتحميص والتعبئة لعملائك.",
+      catSpray: "مسحوق مجفف بالرش",
+      catFreezeDry: "مسحوق مجفف بالتجميد",
+      catAgglo: "حبيبات مكتلة",
+      catExtract: "مركزات القهوة",
+      catBlock: "قوالب مجففة بالتجميد",
+      catDrip: "أكياس قهوة التنقيط",
+      catRtd: "قهوة جاهزة للشرب",
+      catOem: "تصنيع خاص / ODM",
+      oemLead: "نطور وننتج ونعبئ قهوتك تحت علامتك التجارية ومواصفاتك.",
+      valueTitle: "شريك مستقر يشحن بالطريقة التي تناسبك",
+      viewProduct: "عرض المنتج",
+      moq: "الحد الأدنى للطلب",
+      moqVal: "تواصل معنا",
+      pTitle: "قهوة وقهوة فورية جاهزة للتصدير",
+      filterAll: "جميع المنتجات",
+      cTitle: "لنتحدث عن احتياجاتك من القهوة",
+      cLead: "أخبرنا بوجهتك ومواصفاتك وكميتك — نرد خلال يوم عمل واحد.",
+      fName: "الاسم *",
+      fCompany: "الشركة",
+      fEmail: "البريد الإلكتروني *",
+      fCountry: "الدولة / المنطقة",
+      fProduct: "المنتج المهتم به",
+      fProductOpt: "اختر",
+      fOther: "أخرى / مختلط",
+      fVolume: "الكمية التقديرية",
+      fMsg: "الرسالة",
+      fSubmit: "إرسال الاستفسار",
+      fWhatsapp: "تحدث عبر واتساب",
+      contactHead: "سيفن كينغدومز كوفي",
+      cEmail: "البريد الإلكتروني",
+      cWhatsapp: "واتساب",
+      cFactory: "المصنع",
+      cOffice: "مكتب المبيعات",
+      footerTag: "قهوة سائبة وفورية، جاهزة للتصدير من يوننان.",
+      footerContact: "اتصل بنا",
+      footerWhatsappBtn: "ابدأ محادثة واتساب",
+      footerCopy: "© 2026 يوننان تايشيان للتكنولوجيا الحيوية. جميع الحقوق محفوظة."
     }
   };
 
@@ -260,17 +374,25 @@
   /* ---------- language toggle ---------- */
   var langSelect = $(".lang-select");
   function applyLang(lang) {
-    if (lang !== "fr") { lang = "en"; }
+    if (!dict[lang]) { lang = "en"; }
     var d = dict[lang] || {};
     $$("[data-i18n]").forEach(function (el) {
       var key = el.getAttribute("data-i18n");
       if (d[key]) {
         el.innerHTML = d[key];
       } else if (lang === "en") {
-        // EN is the authored content; only restore original markup if previously changed
         if (el.dataset.i18nEn) el.innerHTML = el.dataset.i18nEn;
       }
     });
+    // RTL for Arabic
+    if (lang === "ar") {
+      document.documentElement.setAttribute("dir", "rtl");
+      document.documentElement.setAttribute("lang", "ar");
+    } else {
+      document.documentElement.setAttribute("dir", "ltr");
+      document.documentElement.setAttribute("lang", lang);
+    }
+    langSelect.value = lang;
   }
   // snapshot EN originals once
   $$("[data-i18n]").forEach(function (el) { el.dataset.i18nEn = el.innerHTML; });
