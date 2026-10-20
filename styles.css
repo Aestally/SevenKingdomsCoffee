@@ -714,9 +714,9 @@ button { font-family: inherit; cursor: pointer; }
 
 /* ============ footer ============ */
 .site-footer { background: #120c09; color: var(--muted); padding: 56px 0 0; }
-.footer-grid { display: flex; flex-direction: column; justify-content: center; align-items: stretch; gap: 30px; padding-bottom: 40px; text-align: center; }
-.footer-brand { text-align: right; align-self: flex-end; }
-.footer-brand .brand { justify-content: flex-end; }
+.footer-grid { display: flex; flex-direction: column; justify-content: center; align-items: center; gap: 30px; padding-bottom: 40px; text-align: center; }
+.footer-brand { text-align: center; }
+.footer-brand .brand { justify-content: center; }
 .footer-grid .brand-name { color: var(--ink); }
 .footer-grid .brand-sub { color: var(--muted); }
 .footer-grid h4 { font-family: var(--font-body); font-size: 0.78rem; letter-spacing: .18em; color: var(--red); margin-bottom: 16px; }
